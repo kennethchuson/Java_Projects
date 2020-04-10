@@ -1,10 +1,12 @@
 
 
-//Inside a main class provides all inputs need and logic user interface for the user. 
+/*
+This main class communicates the User_Input class to let the user input from the 
+calculator features such as operations and math application formulas. 
+*/
 public class Main {
 	
 	
-	//Inputs need for the selection option (for the switch statements) and to prevent logical error. 	
 	
 	public static void main(String[] args) {
 		 
